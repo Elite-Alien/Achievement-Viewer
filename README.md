@@ -1,5 +1,7 @@
-This application requires that you have a game setup with a "steam_settings" folder. If you are looking for a means to generate those files check my other project.
+This application requires that you have a game setup with a "steam_settings" folder. If you are looking for a means to generate those files check my other project Steam Settings Generator.
 - https://github.com/Elite-Alien/Steam-Settings-Generator
+
+The Achievement Viewer is a application that I made to fill a role that I was missing with Drop. I use Drop-OSS for my game collection of legal games I have purchased. However, it lacks a achievement system at the moment. This helps fill that role for the time being. Making it easier to load in achievements to a applciation and keep track of them, even when the game isn't running. It's fairly simple in nature and you do have to manually set it up for each game, but it does the job. All this being said, if you wish to use this you will have to "cargo build" it. Also, if you wish to use this code or even continue on with this, fork it, and do other stuff with it expanding it, then be my guest. All I ask is that you share your changes with everyone.
 
 <img width="400" height="383" alt="image" src=https://github.com/Elite-Alien/Achievement-Viewer/blob/main/screenshots/AW.png  />
 
